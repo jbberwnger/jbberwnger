@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   
-[rentry](https://rentry.co/pvurrity) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[straw](https://pvurrity.straw.page) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[ata](https://pvurrity.atabook.org)
+[rentry](https://rentry.co/pvurre) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[straw](https://pvurrity.straw.page) ㅤㅤㅤㅤㅤ✦ ㅤㅤㅤㅤㅤ[ata](https://pvurrity.atabook.org)
 
 </div>
 <br />
