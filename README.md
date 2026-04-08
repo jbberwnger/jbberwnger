@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="540" height="34" alt="image" src="https://github.com/user-attachments/assets/30ed815b-e488-45f3-98d2-398f7e058297" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/aadeef3e-126a-4983-bd22-f3d8b58fff93" />
 
 </div>
 <br />
@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=02d8e9&style=flat&label=filth)
+  ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=532c3e&style=flat&label=members)
 
 </div>
 <br />
@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   
-<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/a5c21aed-c856-4a37-baac-0926d7b596bc" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/42a728b4-879d-41df-9102-6ba0634eda22" />
 
 </div>
 <br />
@@ -32,7 +32,7 @@
 <br />
 <div align="center">
   
-<img width="400" height="133" alt="image" src="https://github.com/user-attachments/assets/807e3eb6-7b97-46d9-b286-ae5352f0d4be" />
+<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/88766df8-0e0a-425f-a881-9c16152b9932" />
 
 </div>
 <br />
@@ -48,6 +48,6 @@
    <br />
 <div align="center"> 
   
-<img width="540" height="34" alt="image" src="https://github.com/user-attachments/assets/30ed815b-e488-45f3-98d2-398f7e058297" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/89ebe699-a890-4461-b8ae-87e5795c89fd" />
 
  </div>
