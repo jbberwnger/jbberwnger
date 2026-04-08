@@ -11,9 +11,6 @@
   ![](https://komarev.com/ghpvc/?username=PIZZADEBTYAOI&color=532c3e&style=flat&label=members)
 
 </div>
-<br />
-<br />
-<br />
 <div align="center">
   
 <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/42a728b4-879d-41df-9102-6ba0634eda22" />
